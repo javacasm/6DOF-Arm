@@ -2,6 +2,8 @@
 
 ![robot arm](./images/26c7ac07-13cc-484d-b85d-46d9bd5284a3.jpg)
 
+Montaje de un brazo robótico de alumnino con 6 grados de libertad
+
 [Brazo robótico (51€ la estructura en alumnino)](https://www.banggood.com/es/DIY-6DOF-Aluminum-Robot-Arm-6-Axis-Rotating-Mechanical-Robot-Arm-Kit-p-1085275.html)
 
 [Guía de montaje](https://drive.google.com/file/d/0Bzr4U7GOGvNJWHJMbGhvbFlMQm8/view?usp=sharing)
