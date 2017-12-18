@@ -12,7 +12,7 @@ Servo: Requiere 2 servos micro como MG90S,
 Y cuatro servos estándar del robot tales como, MG995, MG996
 O servo digital como DS3218 KS3518 (no incluido)
 
-[5xservos MG995 17,08](https://es.aliexpress.com/store/product/5pcs-lot-NEW-MG995-Metal-Gear-High-Torque-Servo-for-HPI-XL-Helicopter-Car-Boat-Hot/1280487_1965956890.html?spm=a219c.search0104.3.33.3L8ylN&ws_ab_test=searchweb0_0,searchweb201602_4_10152_10065_10151_10068_10344_10342_10343_10340_10341_10307_10301_10303_10060_10155_10154_10056_10055_10054_10059_5600015_10534_10533_10532_100031_10099_10338_10339_10103_10102_5590020_10109_10052_10053_10107_10050_10142_10051_10084_10083_5370020_10080_10082_10081_10110_10111_10176_10112_10113_10114_10312_10313_10314_10184_10078_10079_10073,searchweb201603_30,ppcSwitch_2&btsid=8015469f-e921-44b2-a909-1c21311642c0&algo_expid=875928ef-90c2-4ebb-a62e-e90f71e9951a-4&algo_pvid=875928ef-90c2-4ebb-a62e-e90f71e9951a)
+[5xservos MG995 17,08](https://es.aliexpress.com/store/product/5pcs-lot-NEW-MG995-Metal-Gear-High-Torque-Servo-for-HPI-XL-Helicopter-Car-Boat-Hot/1280487_1965956890.html)
 
 ![Servo MG995](./images/5-unids-lote-MG995-55g-servos-Metal-Gear-Digital-rc-coche-robot-Servo.jpg)
 
@@ -38,3 +38,6 @@ O servo digital como DS3218 KS3518 (no incluido)
 Usa sevos MG995/MG996/SG5010, apoyoHitec/Parallax Futaba/TowerPro servo de la serie,etc 40 × 20 × 36mm
 
 ![pinza 2](./images/UT8gpSEXoXaXXagOFbXD.jpg)
+
+
+## [Control](./Control.md)
